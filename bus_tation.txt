@@ -1,0 +1,5 @@
+Number of bus: 43,Place where bus end point is щрапвшр,Time when bus star route 32,Time when bus stop route 342
+Number of bus: 43,Place where bus end point is арпот,Time when bus star route 34,Time when bus stop route 35
+Number of bus: 54,Place where bus end point is вапо,Time when bus star route 234,Time when bus stop route 243
+Number of bus: 43,Place where bus end point is рпашшв,Time when bus star route 34,Time when bus stop route 43
+Number of bus: 34,Place where bus end point is поашоа,Time when bus star route 342,Time when bus stop route 24
